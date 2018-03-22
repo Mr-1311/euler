@@ -8,4 +8,4 @@ Project euler solutions written in java.
 
 #### Advice
 
-If you have an intent to solve problems then don't look up to the solutions before solve them for your sake.
+If you have an intent to solve problems then don't look up to the solutions before solve them for your own good.
